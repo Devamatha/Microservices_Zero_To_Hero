@@ -17,3 +17,5 @@ EX)1.health checks
 3.url mapping
 4.beans loaded
 5.change log level
+6.thread dumps
+7.heap dumps
