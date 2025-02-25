@@ -19,3 +19,10 @@ EX)1.health checks
 5.change log level
 6.thread dumps
 7.heap dumps
+
+
+Zipkin server
+1.zipkin server is used to distrubuted tracing of our request.
+2.how much time take to process the request.
+3.which micro services takes more time to process.
+4.how many services invloved in one request processing
